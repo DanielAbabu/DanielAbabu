@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Ababu</h1>
-<h3 align="center">A Learning Full stack developer from Ethiopia.</h3>
+<h3 align="center">Learning Full stack developer.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
