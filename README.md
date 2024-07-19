@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React.**
 
-- 💬 Ask me about **Graphic Design**
+- 💬 Ask me about **UI/UX and React**
 
 - 📫 How to reach me **daniel0ababu@gmail.com**
 
