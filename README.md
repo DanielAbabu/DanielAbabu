@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Ababu</h1>
-<h3 align="center">A passionate developer from Addis Ababa, Ethiopia</h3>
+<h3 align="center">A passionate Software Enginner from Addis Ababa, Ethiopia</h3>
 
 - 🌱 I’m currently learning **React.**
 
